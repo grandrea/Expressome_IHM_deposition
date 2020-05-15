@@ -1,0 +1,41 @@
+|molecule_name|color|fasta_fn        |fasta_id|pdb_fn          |chain|residue_range|pdb_offset|bead_size|em_residues_per_gaussian|rigid_body|super_rigid_body|chain_of_super_rigid_bodies|flags
+|P75591       |orange red|rnap_nusa.fasta|P75591  |P75591_modeller_segmented2.pdb     |r    |1,142        |0    |5       |10  |1    |1,7  | ||
+|P75591       |orange red|rnap_nusa.fasta|P75591  |P75591_modeller_segmented2.pdb     |r    |143,213      |0    |5       |10  |3    |1,7  | ||
+|P75591       |orange red|rnap_nusa.fasta|P75591  |P75591_modeller_segmented2.pdb     |r    |214,364      |0    |5       |10  |4    |1,7  | ||
+|P75591       |orange red|rnap_nusa.fasta|P75591  |BEADS                              |r    |365,END      |0    |25      |0   |7    |1,7  | ||
+|Q50295.1     |red   |rnap_nusa.fasta|Q50295  |6flq_chopped_Nov25_NusGNucleic.pdb     |A    |1,233        |0    |25      |10  |8    |8,14 | ||
+|Q50295.1     |red   |rnap_nusa.fasta|Q50295  |6flq_chopped_Nov25_NusGNucleic.pdb     |A    |234,END      |0    |5       |10  |9    |8,14 | ||
+|Q50295.2     |white |rnap_nusa.fasta|Q50295  |6flq_chopped_Nov25_NusGNucleic.pdb     |B    |1,233        |0    |25      |10  |8    |8,14 | ||
+|Q50295.2     |white |rnap_nusa.fasta|Q50295  |6flq_chopped_Nov25_NusGNucleic.pdb     |B    |234,END      |0    |5       |0   |10   |8,14 | ||
+|P78013       |aquamarine|rnap_nusa.fasta|P78013  |6flq_chopped_Nov25_NusGNucleic.pdb |C    |1,984        |0    |25      |20  |8    |8,14 | ||
+|P78013       |aquamarine|rnap_nusa.fasta|P78013  |6flq_chopped_Nov25_NusGNucleic.pdb |C    |985,1000     |0    |5       |5   |13   |8,14 | ||
+|P78013       |aquamarine|rnap_nusa.fasta|P78013  |6flq_chopped_Nov25_NusGNucleic.pdb |C    |1001,END     |0    |25      |10  |8    |8,14 | ||
+|P75271       |aquamarine|rnap_nusa.fasta|P75271  |6flq_chopped_Nov25_NusGNucleic.pdb |D    |1,END        |0    |25      |20  |8    |8,14 | ||
+|P75049       |firebrick   |rnap_nusa.fasta|P75049 |6flq_chopped_Nov25_NusGNucleic.pdb|I    |1,150        |0    |5       |10  |8    |8,14 | ||
+|Q50301       |goldenrod |rnap_nusa.fasta|Q50301 |ribo_myco_proteins_swissmodel.pdb   |E    |all          |0    |25      |0   |15   |     | ||
+|P75560       |goldenrod |rnap_nusa.fasta|P75560 |ribo_myco_proteins_swissmodel.pdb   |B    |all          |0    |25      |0   |15   |     | ||
+|P75581       |goldenrod |rnap_nusa.fasta|P75581 |ribo_myco_proteins_swissmodel.pdb   |J    |all          |0    |25      |0   |15   |     | ||
+|P41205       |goldenrod |rnap_nusa.fasta|P41205 |ribo_myco_proteins_swissmodel.pdb   |C    |all          |0    |25      |0   |15   |     | ||
+|P46775       |goldenrod |rnap_nusa.fasta|P46775 |ribo_myco_proteins_swissmodel.pdb   |D    |all          |0    |25      |0   |15   |     | ||
+|Q50304       |goldenrod |rnap_nusa.fasta|Q50304 |ribo_myco_proteins_swissmodel.pdb   |H    |all          |0    |25      |0   |15   |     | ||
+|P75179       |goldenrod |rnap_nusa.fasta|P75179 |ribo_myco_proteins_swissmodel.pdb   |I    |all          |0    |25      |0   |15   |     | ||
+|DNA1N        |dark magenta|rnap_nusa.fasta|DNAN,DNA|6flq_chopped_Nov25_NusGNucleic.pdb |N|all            |0    |5       |10  |8    |8,14 | ||
+|longRNAR1    |magenta |rnap_nusa.fasta|longRNAR,RNA|RNA_ribosome_entry.pdb           |R    |1,11         |0    |5       |0   |15   |     | ||
+|longRNAR2    |magenta |rnap_nusa.fasta|longRNAR,RNA|6flq_chopped_Nov25_NusGNucleic.pdb |R|37,46          |0    |5       |10  |8    |8,14 | ||
+|DNA1T        |dark magenta |rnap_nusa.fasta|DNAT,DNA |6flq_chopped_Nov25_NusGNucleic.pdb|T|all           |0    |5       |10  |8    |8,14 | ||
+|P75090       |dark green|rnap_nusa.fasta|P75090  |P75090_placed.pdb               |A    |1,85          |0    |5       |10  |17   |     | ||
+|30SsubunitE|gray   |rnap_nusa.fasta|30S_subunit_E   |30S_subunit.pdb                 |E      |all           |0    |25      |0   |15   |     | ||
+|30SsubunitF|gray   |rnap_nusa.fasta|30S_subunit_F   |30S_subunit.pdb                 |F      |all           |-2    |25      |0   |15   |     | ||
+|30SsubunitJ|gray   |rnap_nusa.fasta|30S_subunit_J   |30S_subunit.pdb                 |J      |all           |-2    |25      |0   |15   |     | ||
+|30SsubunitK|gray   |rnap_nusa.fasta|30S_subunit_K   |30S_subunit.pdb                 |K      |all           |-3    |25      |0   |15   |     | ||
+|30SsubunitL|gray   |rnap_nusa.fasta|30S_subunit_L   |30S_subunit.pdb                 |L      |all           |-1    |25      |0   |15   |     | ||
+|30SsubunitM|gray   |rnap_nusa.fasta|30S_subunit_M   |30S_subunit.pdb                 |M      |all           |-1    |25      |0   |15   |     | ||
+|30SsubunitN|gray   |rnap_nusa.fasta|30S_subunit_N   |30S_subunit.pdb                 |N      |all           |-1    |25      |0   |15   |     | ||
+|30SsubunitO|gray   |rnap_nusa.fasta|30S_subunit_O   |30S_subunit.pdb                 |O      |all           |-1    |25      |0   |15   |     | ||
+|30SsubunitP|gray   |rnap_nusa.fasta|30S_subunit_P   |30S_subunit.pdb                 |P      |all           |-1    |25      |0   |15   |     | ||
+|30SsubunitQ|gray   |rnap_nusa.fasta|30S_subunit_Q   |30S_subunit.pdb                 |Q      |all           |-33   |25      |0   |15   |     | ||
+|30SsubunitR|gray   |rnap_nusa.fasta|30S_subunit_R   |30S_subunit.pdb                 |R      |all           |-3    |25      |0   |15   |     | ||
+|30SsubunitT|gray   |rnap_nusa.fasta|30S_subunit_T,RNA|30S_subunit.pdb                |T      |all           |-7   |25      |0   |15   |     | ||
+|30Ssubunitj|gray   |rnap_nusa.fasta|30S_subunit_j   |30S_subunit.pdb                 |j      |all           |-2   |25      |0   |15   |     | ||
+|30SsubunitZ|gray   |rnap_nusa.fasta|30S_subunit_Z,RNA|30S_subunit.pdb                |Z      |all           |0    |10      |0   |15   |     | ||
+
