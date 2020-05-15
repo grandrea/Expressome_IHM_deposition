@@ -1,0 +1,4 @@
+The sampling precision is defined as the largest allowed RMSD between the cluster centroid and a  rnap_nusa_ribo model within any cluster in the finest clustering for which each sample contributes models proportionally to its size (considering both significance and magnitude of the difference) and for which a sufficient proportion of all models occur in sufficiently large clusters. The sampling precision for our  rnap_nusa_ribo  modeling is 21.783  A.
+Sampling precision, P-value, Cramer's V and percentage of clustered models below:
+21.783	0.000	0.093	99.986
+
