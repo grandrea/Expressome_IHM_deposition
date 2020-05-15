@@ -1,19 +1,5 @@
 This folder contains the cluster center model of the integrative modeling solution.
 
-Files:
-
-expressome.ihm :
-
-The integrative model calculated by IMP. Can be opened in chimerax and is be deposited in PDB-Dev.
-Once opened, contains all information on crosslinks and density used to generate the model, as well as the actual model and the localisation probability densities of each domain(in "Results").
-The model is calculated based on DSS and DSSO crosslinks, and the multibody-refined RNAP-NusA density (found in "input").
-
-Crosslinks from the RNAP alpha subunit (Q50295) appear four times, as the protein is present in two copies. Nevertheless, violations are computed on the shortest link.
-N.B.: The "starting models" contained in the ihm are not aligned in the correct coordinate frame of the solution. As such, they do not represent the integrative modeling result. The position of each domain in the result is found in the "Results" tab or can be viewed by opening Modeling_cluster_center_NoCTD1.pdb .
-
-Modeling_cluster_center.pdb:
-The pdb version of the ihm file. 
--All coarse grained regions are removed. 
 
 
 modeling.py : the modeling protocol employed with IMP 2.12
